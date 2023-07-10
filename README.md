@@ -6,7 +6,6 @@
 - 📫 Как связаться со мной **tihomirov.nick@gmail.com**
 
 - 📄 Резюме [*ссылочка*](https://www.notion.so/fecfc06e398f4d21968460ee2084488a?pvs=4)
-
 ![snake gif](https://github.com/tihomirov-nick/tihomirov-nick/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Свяжитесь со мной:</h3>
