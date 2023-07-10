@@ -7,11 +7,6 @@
 
 Я начинающий Data Scientist. Мой путь в it начался со курса "Основы Python" на Stepik и создания простейших Telegram ботов. После прохождения курса я начал искать подработку и нашел фриланс биржу Kwork. На ней работал 2 года, писал ботов, пробовал web scraping, web разработку и дизайн, параллельно с этим изучая Data Science - это и зацепило меня больше всего!
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 - :telescope: Прохожу "Deep Learning (семестр 1, весна 2023): продвинутый поток"
 
 - :seedling: Прохожу "Введение в Data Science и машинное обучение"
