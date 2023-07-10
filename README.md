@@ -1,8 +1,6 @@
 <h1 align="center">Привет 👋, я Никита</h1>
 <h3 align="center">Я начинающий Data Science специалист и Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tihomirov-nick&label=Profile%20views&color=0e75b6&style=flat" alt="tihomirov-nick" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tihomirov-nick" alt="tihomirov-nick" /></a> </p>
 
 - 🌱 Сейчас я учусь **Stepik "Deep Learning (семестр 1, весна 2023): продвинутый поток"**
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tihomirov-nick&show_icons=true&locale=en" alt="tihomirov-nick" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tihomirov-nick&" alt="tihomirov-nick" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tihomirov-nick&label=Profile%20views&color=0e75b6&style=flat" alt="tihomirov-nick" /> </p>
