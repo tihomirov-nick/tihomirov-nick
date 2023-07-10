@@ -15,7 +15,7 @@
 
 - :seedling: Прохожу "Введение в Data Science и машинное обучение"
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tihmir_nick) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tihomirov.nick@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tihmir_nick-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tihmir_nick) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tihomirov.nick@gmail.com)
 
 ---
 
