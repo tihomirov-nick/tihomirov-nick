@@ -9,6 +9,8 @@
 
 - 📄 Резюме [*ссылочка*](https://www.notion.so/fecfc06e398f4d21968460ee2084488a?pvs=4)
 
+![snake gif](https://github.com/tihomirov-nick/tihomirov-nick/blob/output/github-contribution-grid-snake.gif)
+
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nick-tikhomirov-918bb5282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nick-tikhomirov-918bb5282" height="30" width="40" /></a>
