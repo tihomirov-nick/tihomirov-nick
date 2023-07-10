@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tihomirov-nick" alt="tihomirov-nick" /></a> </p>
 
-- 🌱 I’m currently learning **Stepik "Deep Learning (семестр 1, весна 2023): продвинутый поток"**
+- 🌱 Сейчас я учусь **Stepik "Deep Learning (семестр 1, весна 2023): продвинутый поток"**
 
-- 📫 How to reach me **tihomirov.nick@gmail.com**
+- 📫 Как связаться со мной **tihomirov.nick@gmail.com**
 
-- 📄 Резюме [https://www.notion.so/fecfc06e398f4d21968460ee2084488a?pvs=4](https://www.notion.so/fecfc06e398f4d21968460ee2084488a?pvs=4)
+- 📄 Резюме [*ссылочка*](https://www.notion.so/fecfc06e398f4d21968460ee2084488a?pvs=4)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nick-tikhomirov-918bb5282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nick-tikhomirov-918bb5282" height="30" width="40" /></a>
 <a href="https://kaggle.com/nicktikhomirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nicktikhomirov" height="30" width="40" /></a>
