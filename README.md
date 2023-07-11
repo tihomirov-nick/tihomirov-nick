@@ -21,10 +21,10 @@
 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tihomirov-nick&theme=solarized" alt="Profile Details">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tihomirov-nick&theme=solarized" alt="Repos per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tihomirov-nick&theme=solarized" alt="Most Commit Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tihomirov-nick&theme=solarized" alt="Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tihomirov-nick&theme=solarized&utcOffset=3" alt="Productive Time">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tihomirov-nick&theme=tokyonight" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tihomirov-nick&theme=tokyonight" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tihomirov-nick&theme=tokyonight" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tihomirov-nick&theme=tokyonight" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tihomirov-nick&theme=tokyonight&utcOffset=3" alt="Productive Time">
 </p>
 
