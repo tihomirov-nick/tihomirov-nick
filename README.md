@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/nick-tikhomirov-918bb5282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nick-tikhomirov-918bb5282" height="30" width="40" /></a>
 <a href="https://kaggle.com/nicktikhomirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nicktikhomirov" height="30" width="40" /></a>
 <a href="https://instagram.com/tihmir_nick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tihmir_nick" height="30" width="40" /></a>
-<a href="https://discord.gg/auem#2661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="auem#2661" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
