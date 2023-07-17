@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Никита</h1>
-<h3 align="center">Я начинающий Data Science специалист и Python Developer</h3>
+<h3 align="center">Я начинающий Data Scientist и Python Developer</h3>
 
 - 🌱 Сейчас изучаю **Stepik "Deep Learning (семестр 1, весна 2023): продвинутый поток"**
 
