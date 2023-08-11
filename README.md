@@ -26,4 +26,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tihomirov-nick&theme=tokyonight" alt="Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tihomirov-nick&theme=tokyonight&utcOffset=3" alt="Productive Time">
 </p>
-
