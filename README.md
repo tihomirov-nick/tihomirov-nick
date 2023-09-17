@@ -1,11 +1,11 @@
 <h1 align="center">Привет 👋, я Никита</h1>
 <h3 align="center">Data Scientist & Python Developer</h3>
 
-- 🌱 Сейчас изучаю **Stepik "Deep Learning (семестр 1, весна 2023): продвинутый поток"**
+- 🌱 Сейчас изучаю: **Stepik "Deep Learning (семестр 1, весна 2023): продвинутый поток"**
 
-- 📫 Как связаться со мной **tihomirov.nick@gmail.com**
+- 📫 Как связаться со мной: **tihomirov.nick@gmail.com**
 
-- 📄 Резюме [**link**](https://www.notion.so/fecfc06e398f4d21968460ee2084488a?pvs=4)
+- 📄 Резюме: [**link**](https://www.notion.so/fecfc06e398f4d21968460ee2084488a?pvs=4)
 ![snake gif](https://github.com/tihomirov-nick/tihomirov-nick/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Свяжитесь со мной:</h3>
