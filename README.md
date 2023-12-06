@@ -5,7 +5,7 @@
 
 - 📫 Как связаться со мной: **tihomirov.nick@gmail.com**
 
-- 📄 Резюме: [**link**]([https://spb.hh.ru/resume/33525c49ff056e1ac00039ed1f354e48466e6b)
+- 📄 Резюме: [**link**]([https://spb.hh.ru/resume/33525c49ff056e1ac00039ed1f354e48466e6b])
 ![snake gif](https://github.com/tihomirov-nick/tihomirov-nick/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Свяжитесь со мной:</h3>
