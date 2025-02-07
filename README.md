@@ -1,8 +1,6 @@
 <h1 align="center">Привет 👋, я Никита</h1>
 <h3 align="center">Data Scientist & Python Fullstack Developer</h3>
 
-- 🌱 Сейчас изучаю: **Stepik "Deep Learning (семестр 1, весна 2023): продвинутый поток"**
-
 - 📫 Как связаться со мной: **tihomirov.nick@gmail.com**
 
 - 📄 Резюме: [**link**]([https://spb.hh.ru/resume/33525c49ff056e1ac00039ed1f354e48466e6b])
